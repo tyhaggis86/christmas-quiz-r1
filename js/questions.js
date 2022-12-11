@@ -1,7 +1,7 @@
 let questions = [
     {
     numb: 1,
-    question: "Which one of Santa's reindeer has the same name as another holiday mascot??",
+    question: "Which one of Santa's reindeer has the same name as another holiday mascot?",
     answer: "Cupid",
     options: [
       "Prancer",
@@ -56,7 +56,7 @@ let questions = [
   },
     {
     numb: 6,
-    question: "Which Hollywood actor played six different roles in The Polar Express",
+    question: "Which Hollywood actor played six different roles in The Polar Express?",
     answer: "Tom Hanks",
     options: [
       "Tom Hanks",
